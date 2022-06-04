@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: lavender;
+    font-size:18px;
+}
+
+.heading{
+    font-size: 50px;
+    background-color: rgb(161, 233, 161);
+}
+
+.search{
+    margin:50px;
+    background-color: rgb(165, 225, 165);
+    width: auto;
+    display: inline-block;
+}
+
+.image{
+    width: 100%;
+    
+}
+
+.head{
+    font-size: 30px;
+    font-family: cursive;
+}
+
